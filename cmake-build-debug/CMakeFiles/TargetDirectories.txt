@@ -1,0 +1,3 @@
+F:/repositories/something-with-c/cmake-build-debug/CMakeFiles/something_with_c.dir
+F:/repositories/something-with-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/repositories/something-with-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
